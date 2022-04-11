@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/priyanshukumar/dev/AI-ChatBot/model.tflearn"
+all_model_checkpoint_paths: "/Users/priyanshukumar/dev/AI-ChatBot/model.tflearn"
