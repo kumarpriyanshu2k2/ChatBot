@@ -9,11 +9,11 @@ Make sure you have Python installed on your system.
 
 - clone the repository into your local system.
 
-        git clone https://github.com/kumarpriyanshu2k2/CV_Volume_Controller.git
+        git clone https://github.com/kumarpriyanshu2k2/ChatBot.git
 
 - go to the directory in which you have cloned this project.
 
-        cd ./CV_Volume_Controller
+        cd ./ChatBot
     
 - install the required libraries using the following command:
 
